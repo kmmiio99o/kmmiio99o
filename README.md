@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kmmiio99o_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kmmiio99o_dev" height="30" width="40" /></a> (Tweet me your best dad jokes!)
+<a href="https://twitter.com/kmmiio99o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kmmiio99o_dev" height="30" width="40" /></a> (Tweet me your best dad jokes!)
 <a href="https://discord.gg/https://discordapp.com/users/879393496627306587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/879393496627306587" height="30" width="40" /></a> (Join me for virtual chaos!)
 </p>
 
