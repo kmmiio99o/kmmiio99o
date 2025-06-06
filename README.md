@@ -14,23 +14,26 @@
 
 - 🖥️ I speak HTML fluently, CSS (with an accent), and JavaScript (work in progress).
 - 🐍 Python? Only on rainy days.
-- 🛠️ If it has wires or code, I’ll probably try to fix it. If not, I’ll give it Wi-Fi anyway.
+- 🛠️ If it has wires or code, I'll probably try to fix it. If not, I'll give it Wi-Fi anyway.
+
+---
+
+## 🎮 Discord Status
+
+<p align="center">
+  <a href="https://discord.com/users/879393496627306587">
+    <img src="https://lanyard-profile-readme.vercel.app/api/879393496627306587?theme=dark&bg=1a1b27&animated=true&hideDiscrim=true&borderRadius=15px" alt="Discord Status"/>
+  </a>
+</p>
 
 ---
 
 ### 🌟 Top Skills
 
 - **HTML** (I could write it in my sleep. Sometimes I actually do.)
-- CSS (I make things pretty, or at least try…)
+- CSS (I make things pretty, or at least try...)
 - JavaScript (My favorite bug generator)
-- Python (when the web isn’t looking)
-
----
-
-### 🚧 Currently Learning
-
-- JavaScript and CSS – because apparently, websites don’t style themselves yet.  
-- How not to break production on Fridays.
+- Python (when the web isn't looking)
 
 ---
 
@@ -38,50 +41,32 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmmiio99o&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kmmiio99o&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=kmmiio99o&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🚀 Featured Project
-
-- [🌐 My Portfolio](https://kmmiio99o.github.io) – where I pretend to be professional.
-
----
-
 ### 🔗 Find Me Online
 
-[![x.com](https://img.shields.io/badge/x-1da1f2?style=flat&logo=x)](https://x.com/kmmiio99o)
-[![voided.host](https://img.shields.io/badge/voided.host-181717?style=flat&logo=github)](https://voided.host/kmmiio99o)
-[![TikTok](https://img.shields.io/badge/TikTok-black?style=flat&logo=tiktok)](https://www.tiktok.com/@kmmiio99o.dev)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/879393496627306587)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kmmiio99o@gmail.com)
+[![x.com](https://img.shields.io/badge/x-1da1f2?style=for-the-badge&logo=x)](https://x.com/kmmiio99o)
+[![voided.host](https://img.shields.io/badge/voided.host-181717?style=for-the-badge&logo=github)](https://voided.host/kmmiio99o)
+[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@kmmiio99o.dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/879393496627306587)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmmiio99o@gmail.com)
 
 ---
 
 <details>
 <summary>🐧 Arch Linux Fan? Here's some ASCII art because I <i>do</i> use Arch, btw.</summary>
 
-<pre>
-        /\\
-       /  \\
-      /    \\
-     /      \\
-    /   ,,   \\
-   /   |  |  -\\
-  /_-''    ''-_\\
-</pre>
-</details>
-
----
-
-<p align="center">
-  <i>“Always learning, always breaking, sometimes fixing.”</i>
-</p>
+```ascii
+        /\
+       /  \
+      /    \
+     /      \
+    /   ,,   \
+   /   |  |  -\
+  /_-''    ''-_\
