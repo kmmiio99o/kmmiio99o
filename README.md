@@ -60,7 +60,7 @@
 ---
 
 <details>
-<summary>🐧 Arch Linux Fan? Here's some ASCII art because I <i>do</i> use Arch, btw.</summary>
+<summary>🐧 Arch Linux Fan? Here's some ASCII art because I know people <i>use</i> Arch, btw.</summary>
 
 ```ascii
         /\
