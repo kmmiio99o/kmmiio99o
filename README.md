@@ -1,5 +1,5 @@
 <p align="center">
-  [![Worst Developer](https://img.shields.io/badge/⚠️_Worst_Dev_-💀_Proceed_With_Caution-yellow?style=for-the-badge&logo=git&logoColor=black)](https://github.com)
+  <img src="https://img.shields.io/badge/💥_Worst_Developer-🔥_Caution-red?style=for-the-badge&logo=github&logoColor=white" alt="Worst Developer Badge" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
 </p>
 <h1 align="center">Heyo, I'm kmmiio99o 👋</h1>
 
