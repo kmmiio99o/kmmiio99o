@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Good%20Developer-%F0%9F%94%A5-blue?style=for-the-badge&logo=github" alt="Good Developer Badge">
+  [![Worst Developer](https://img.shields.io/badge/⚠️_Worst_Dev_-💀_Proceed_With_Caution-yellow?style=for-the-badge&logo=git&logoColor=black)](https://github.com)
 </p>
 <h1 align="center">Heyo, I'm kmmiio99o 👋</h1>
 
 <p align="center">
   <b>16 y/o web dev from Poland 🇵🇱</b><br>
-  <i>I break stuff, then fix it (sometimes by accident)</i>
+  <i>I break stuff, and "try" to repair it</i>
 </p>
 
 ---
 
 ### 😎 About Me
 
-- 🖥️ I speak HTML fluently, CSS (with an accent), and JavaScript (work in progress).
-- 🐍 Python? Only on rainy days.
-- 🛠️ If it has wires or code, I'll probably try to fix it. If not, I'll give it Wi-Fi anyway.
+- 🖥️ I speak HTML fluently, CSS sometimes, and JavaScript still trying to understand.
+- 🐍 Python? sometimes, not like it really.
+- 🛠️ If it has wires or code, I'll probably try to fix it.
 
 ---
 
@@ -30,10 +30,10 @@
 
 ### 🌟 Top Skills
 
-- **HTML** (I could write it in my sleep. Sometimes I actually do.)
-- CSS (I make things pretty, or at least try...)
-- JavaScript (My favorite bug generator)
-- Python (when the web isn't looking)
+- HTML (My beloved language at all)
+- CSS (Trying to make thing pretty)
+- JavaScript (oh hell nah, go away 🥀)
+- Python (brain melt for me)
 
 ---
 
@@ -56,17 +56,4 @@
 [![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@kmmiio99o.dev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/879393496627306587)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmmiio99o@gmail.com)
-
 ---
-
-<details>
-<summary>🐧 Arch Linux Fan? Here's some ASCII art because I know people <i>use</i> Arch, btw.</summary>
-
-```ascii
-        /\
-       /  \
-      /    \
-     /      \
-    /   ,,   \
-   /   |  |  -\
-  /_-''    ''-_\
