@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com" style="display: inline-block; border-radius: 12px; overflow: hidden;">
-  <img src="https://img.shields.io/badge/💥_Worst_Developer-🔥_Proceed_With_Caution-red?style=for-the-badge&logo=github&logoColor=white" alt="Worst Developer Badge" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-</a>
-</p>
 <h1 align="center">Heyo, I'm kmmiio99o 👋</h1>
 
 <p align="center">
