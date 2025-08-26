@@ -45,11 +45,11 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmmiio99o&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmmiio99o&layout=compact&theme=radical" alt="Top Languages" />
+  <br><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmmiio99o&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kmmiio99o&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kmmiio99o&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
