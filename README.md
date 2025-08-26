@@ -46,9 +46,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmmiio99o&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmmiio99o&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmmiio99o&theme=radical" alt="GitHub Streak" />
 </p>
 
