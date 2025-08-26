@@ -44,14 +44,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/kmmiio99o">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmmiio99o&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" onerror="this.style.display='none'" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmmiio99o&layout=compact&hide_border=true&theme=radical&hide=html,css" onerror="this.style.display='none'" alt="Top Languages" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmmiio99o&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmmiio99o&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmmiio99o&theme=radical&hide_border=true&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kmmiio99o&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
