@@ -46,10 +46,15 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmmiio99o&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmmiio99o&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kmmiio99o&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<!-- Top Languages Card -->
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kmmiio99o&layout=compact&theme=radical&langs_count=8&hide=procfile" alt="Top Languages" />
+
+</div>
 
 ---
 
@@ -69,7 +74,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,react,html,git,github&theme=dark&perline=8" alt="Tech Stack Icons" width="90%">
+  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,react,html,git,github&theme=dark&perline=7" alt="Tech Stack Icons" width="90%">
 </p>
 
 ---
@@ -87,6 +92,17 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="28"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+  
+### 📈 Activity Overview
+
+<!-- Activity Graph -->
+[![kmmiio99o's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmmiio99o&theme=radical)](https://github.com/kmmiio99o)
+
+</div>
 
 ---
 
