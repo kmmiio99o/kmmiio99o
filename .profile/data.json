@@ -1,0 +1,433 @@
+{
+ "key": "22ba85f4",
+ "stars": 12,
+ "contributions": 811,
+ "repos": 26,
+ "followers": 32,
+ "languages": [
+  [
+   "TypeScript",
+   1252652
+  ],
+  [
+   "Kotlin",
+   106955
+  ],
+  [
+   "CSS",
+   94362
+  ],
+  [
+   "HTML",
+   40940
+  ],
+  [
+   "JavaScript",
+   26706
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 4,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 0,
+  "longest": 11
+ },
+ "pins": [
+  {
+   "name": "kmmiio99o.github.io",
+   "url": "https://github.com/kmmiio99o/kmmiio99o.github.io",
+   "text": "My page in Typescript and React",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "ShiggyCord",
+   "url": "https://github.com/kmmiio99o/ShiggyCord",
+   "text": "A Discord client based on Kettu!",
+   "fork": true,
+   "stars": 143,
+   "language": "TypeScript",
+   "topics": [
+    "android",
+    "discord",
+    "discord-client-mod",
+    "react-native",
+    "reverse-engineering",
+    "vendetta"
+   ]
+  },
+  {
+   "name": "ShiggyManager",
+   "url": "https://github.com/kmmiio99o/ShiggyManager",
+   "text": "Shiggy your discord easily and without root!",
+   "fork": true,
+   "stars": 58,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "ShiggyXposed",
+   "url": "https://github.com/kmmiio99o/ShiggyXposed",
+   "text": "Shiggy your discord!",
+   "fork": true,
+   "stars": 14,
+   "language": "Kotlin",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "ShiggyCord",
+   "url": "https://github.com/kmmiio99o/ShiggyCord",
+   "text": "A Discord client based on Kettu!",
+   "fork": true,
+   "stars": 143,
+   "language": "TypeScript",
+   "topics": [
+    "android",
+    "discord",
+    "discord-client-mod",
+    "react-native",
+    "reverse-engineering",
+    "vendetta"
+   ]
+  },
+  {
+   "name": "ShiggyManager",
+   "url": "https://github.com/kmmiio99o/ShiggyManager",
+   "text": "Shiggy your discord easily and without root!",
+   "fork": true,
+   "stars": 58,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "ShiggyXposed",
+   "url": "https://github.com/kmmiio99o/ShiggyXposed",
+   "text": "Shiggy your discord!",
+   "fork": true,
+   "stars": 14,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "vd-plugins",
+   "url": "https://github.com/kmmiio99o/vd-plugins",
+   "text": "Plugins for @vendetta-mod/vendetta",
+   "fork": false,
+   "stars": 4,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "theme-marketplace",
+   "url": "https://github.com/kmmiio99o/theme-marketplace",
+   "text": "Curated Themes list for Discord mod clients Kettu/Revenge",
+   "fork": false,
+   "stars": 3,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "discord-mobile-themes",
+   "url": "https://github.com/kmmiio99o/discord-mobile-themes",
+   "text": "Themes for mobile Kettu/Revenge Discord client modifications",
+   "fork": false,
+   "stars": 2,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "kmmiio99o.github.io",
+   "url": "https://github.com/kmmiio99o/kmmiio99o.github.io",
+   "text": "My page in Typescript and React",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Kaoruko-Bot-Next",
+   "url": "https://github.com/kmmiio99o/Kaoruko-Bot-Next",
+   "text": "Next generation Discord Bot with everything you need, and even more by plugins!",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "reseam-patches",
+   "url": "https://github.com/kmmiio99o/reseam-patches",
+   "text": "My own reseam patches, suitable for Spotify lovers",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "revenge-community-plugins",
+   "url": "https://github.com/kmmiio99o/revenge-community-plugins",
+   "text": "🔌 Central plugin repository for Revenge Next",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "revenge-next-plugs-dev",
+   "url": "https://github.com/kmmiio99o/revenge-next-plugs-dev",
+   "text": "Dev instance of revenge-next-plugs (dev-next.jarviscli.dev) - WIP plugins only",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "revenge-next-plugins-bleel",
+   "url": "https://github.com/kmmiio99o/revenge-next-plugins-bleel",
+   "text": "Revenge Next ports of bleelblep/revengeplugins",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Revenge-Plugins",
+   "url": "https://github.com/kmmiio99o/Revenge-Plugins",
+   "text": "A collection of Revenge plugins made by fshinz",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "revenge-xposed",
+   "url": "https://github.com/kmmiio99o/revenge-xposed",
+   "text": "🫚 Xposed module to use Revenge on rooted Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "BitChord",
+   "url": "https://github.com/kmmiio99o/BitChord",
+   "text": "A modern YouTube music client with clean aesthetics inspired from Apple Music",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "revenge-next-plugins",
+   "url": "https://github.com/kmmiio99o/revenge-next-plugins",
+   "text": "My plugins and ports for Revenge Next",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Rentities",
+   "url": "https://github.com/kmmiio99o/Rentities",
+   "text": "Rentities is a minecraft mod that fundamentally rewrites how entities are rendered in minecraft",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "replugged",
+   "url": "https://github.com/kmmiio99o/replugged",
+   "text": "A lightweight Discord client mod focused on simplicity and performance.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Drop",
+   "url": "https://github.com/kmmiio99o/Drop",
+   "text": "A fork of rain, mostly meant for personal use",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Discord3rdparties",
+   "url": "https://github.com/kmmiio99o/Discord3rdparties",
+   "text": "A non-exhaustive collection of third-party clients and mods for Discord.",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "discord-encylopedia",
+   "url": "https://github.com/kmmiio99o/discord-encylopedia",
+   "text": "Encylopedia about all discord clients and other",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Cynosphere-VendettaPlugins",
+   "url": "https://github.com/kmmiio99o/Cynosphere-VendettaPlugins",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Kaoruko-Website",
+   "url": "https://github.com/kmmiio99o/Kaoruko-Website",
+   "text": "The website for Kaoruko Bot Next, providing all you need!",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "mobile-themes-test-repo",
+   "url": "https://github.com/kmmiio99o/mobile-themes-test-repo",
+   "text": "Test repository for Kettu/Revenge themes. Made it because I'm not gonna give broken product",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "oneko",
+   "url": "https://github.com/kmmiio99o/oneko",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "kmmiio99o",
+   "url": "https://github.com/kmmiio99o/kmmiio99o",
+   "text": "Config files for my GitHub profile.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  }
+ ]
+}
