@@ -1,8 +1,8 @@
 {
- "key": "bd4bc7f1",
+ "key": "670ea242",
  "stars": 12,
- "contributions": 812,
- "repos": 26,
+ "contributions": 813,
+ "repos": 27,
  "followers": 33,
  "languages": [
   [
@@ -103,7 +103,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 1,
     "day": 25,
     "today": true
    },
@@ -116,7 +116,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 11
  },
  "pins": [
@@ -150,7 +150,7 @@
    "url": "https://github.com/kmmiio99o/ShiggyManager",
    "text": "Shiggy your discord easily and without root!",
    "fork": true,
-   "stars": 58,
+   "stars": 57,
    "language": "Kotlin",
    "topics": []
   },
@@ -186,7 +186,7 @@
    "url": "https://github.com/kmmiio99o/ShiggyManager",
    "text": "Shiggy your discord easily and without root!",
    "fork": true,
-   "stars": 58,
+   "stars": 57,
    "language": "Kotlin",
    "topics": []
   },
@@ -241,6 +241,15 @@
    "text": "Next generation Discord Bot with everything you need, and even more by plugins!",
    "fork": false,
    "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "evi",
+   "url": "https://github.com/kmmiio99o/evi",
+   "text": "Make Discord yours. More than 60 plugins, plus themes and wallpapers, in one store for the Discord desktop app.",
+   "fork": true,
+   "stars": 0,
    "language": "TypeScript",
    "topics": []
   },
