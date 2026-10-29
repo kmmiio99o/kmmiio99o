@@ -1,5 +1,5 @@
 {
- "key": "78c126c0",
+ "key": "5a4d4c61",
  "stars": 12,
  "contributions": 809,
  "repos": 27,
@@ -120,9 +120,13 @@
    {
     "c": 0,
     "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
     "today": true
    },
-   null,
    null,
    null
   ]
@@ -171,7 +175,7 @@
    "url": "https://github.com/kmmiio99o/ShiggyXposed",
    "text": "Shiggy your discord!",
    "fork": true,
-   "stars": 15,
+   "stars": 16,
    "language": "Kotlin",
    "topics": []
   }
@@ -207,7 +211,7 @@
    "url": "https://github.com/kmmiio99o/ShiggyXposed",
    "text": "Shiggy your discord!",
    "fork": true,
-   "stars": 15,
+   "stars": 16,
    "language": "Kotlin",
    "topics": []
   },
