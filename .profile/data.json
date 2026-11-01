@@ -1,17 +1,17 @@
 {
- "key": "3e392c43",
+ "key": "71f8e444",
  "stars": 12,
- "contributions": 799,
- "repos": 28,
+ "contributions": 803,
+ "repos": 30,
  "followers": 34,
  "languages": [
   [
    "TypeScript",
-   1252652
+   1261567
   ],
   [
    "Kotlin",
-   106955
+   109396
   ],
   [
    "CSS",
@@ -27,43 +27,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 11,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 12,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 13,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 14,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 15,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 16,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 17,
-    "today": false
-   }
-  ],
   [
    {
     "c": 0,
@@ -133,14 +96,27 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 5,
     "day": 31,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 11
  },
  "pins": [
@@ -158,7 +134,7 @@
    "url": "https://github.com/kmmiio99o/ShiggyCord",
    "text": "A Discord client based on Kettu!",
    "fork": true,
-   "stars": 146,
+   "stars": 145,
    "language": "TypeScript",
    "topics": [
     "android",
@@ -194,7 +170,7 @@
    "url": "https://github.com/kmmiio99o/ShiggyCord",
    "text": "A Discord client based on Kettu!",
    "fork": true,
-   "stars": 146,
+   "stars": 145,
    "language": "TypeScript",
    "topics": [
     "android",
@@ -275,6 +251,24 @@
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "valenced-plugins",
+   "url": "https://github.com/kmmiio99o/valenced-plugins",
+   "text": "My plugins for valenced and such",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "valenced-manager",
+   "url": "https://github.com/kmmiio99o/valenced-manager",
+   "text": "Install and update Valenced on Android. A client modification for Discord mobile.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
    "topics": []
   },
   {
