@@ -1,13 +1,13 @@
 {
- "key": "830001ad",
+ "key": "5bbff7b8",
  "stars": 12,
- "contributions": 810,
+ "contributions": 813,
  "repos": 30,
  "followers": 34,
  "languages": [
   [
    "TypeScript",
-   1364528
+   1416494
   ],
   [
    "Kotlin",
@@ -103,7 +103,7 @@
   ],
   [
    {
-    "c": 8,
+    "c": 11,
     "day": 1,
     "today": true
    },
@@ -150,7 +150,7 @@
    "url": "https://github.com/kmmiio99o/ShiggyManager",
    "text": "Shiggy your discord easily and without root!",
    "fork": true,
-   "stars": 57,
+   "stars": 58,
    "language": "Kotlin",
    "topics": []
   },
@@ -186,7 +186,7 @@
    "url": "https://github.com/kmmiio99o/ShiggyManager",
    "text": "Shiggy your discord easily and without root!",
    "fork": true,
-   "stars": 57,
+   "stars": 58,
    "language": "Kotlin",
    "topics": []
   },
