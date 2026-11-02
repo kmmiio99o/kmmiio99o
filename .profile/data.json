@@ -1,7 +1,7 @@
 {
- "key": "b9de1da6",
+ "key": "266abb52",
  "stars": 12,
- "contributions": 817,
+ "contributions": 784,
  "repos": 30,
  "followers": 34,
  "languages": [
@@ -105,9 +105,13 @@
    {
     "c": 15,
     "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -134,7 +138,7 @@
    "url": "https://github.com/kmmiio99o/ShiggyCord",
    "text": "A Discord client based on Kettu!",
    "fork": true,
-   "stars": 145,
+   "stars": 144,
    "language": "TypeScript",
    "topics": [
     "android",
@@ -170,7 +174,7 @@
    "url": "https://github.com/kmmiio99o/ShiggyCord",
    "text": "A Discord client based on Kettu!",
    "fork": true,
-   "stars": 145,
+   "stars": 144,
    "language": "TypeScript",
    "topics": [
     "android",
