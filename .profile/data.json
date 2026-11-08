@@ -1,8 +1,8 @@
 {
- "key": "bc5842e2",
+ "key": "fbf216d2",
  "stars": 12,
- "contributions": 812,
- "repos": 30,
+ "contributions": 832,
+ "repos": 31,
  "followers": 35,
  "languages": [
   [
@@ -103,7 +103,7 @@
   ],
   [
    {
-    "c": 2,
+    "c": 22,
     "day": 8,
     "today": true
    },
@@ -250,6 +250,15 @@
    "text": "Next generation Discord Bot with everything you need, and even more by plugins!",
    "fork": false,
    "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "cloudcord",
+   "url": "https://github.com/kmmiio99o/cloudcord",
+   "text": "CloudCord — client-side Discord modification framework focused on iOS/iPadOS and Android, with Windows support. Plugins, UI overrides, fake profile badges, and cross-device sync.",
+   "fork": true,
+   "stars": 0,
    "language": "TypeScript",
    "topics": []
   },
