@@ -1,5 +1,5 @@
 {
- "key": "5f82b1f9",
+ "key": "38e21018",
  "stars": 12,
  "contributions": 796,
  "repos": 32,
@@ -217,21 +217,21 @@
    "topics": []
   },
   {
+   "name": "reseam-patches",
+   "url": "https://github.com/kmmiio99o/reseam-patches",
+   "text": "My own reseam patches, suitable for Spotify lovers",
+   "fork": true,
+   "stars": 3,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "theme-marketplace",
    "url": "https://github.com/kmmiio99o/theme-marketplace",
    "text": "Curated Themes list for Discord mod clients Kettu/Revenge",
    "fork": false,
    "stars": 3,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "reseam-patches",
-   "url": "https://github.com/kmmiio99o/reseam-patches",
-   "text": "My own reseam patches, suitable for Spotify lovers",
-   "fork": true,
-   "stars": 2,
-   "language": "Kotlin",
    "topics": []
   },
   {
