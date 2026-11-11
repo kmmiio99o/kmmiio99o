@@ -1,5 +1,5 @@
 {
- "key": "5e0b96d4",
+ "key": "528105d8",
  "stars": 12,
  "contributions": 796,
  "repos": 32,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "TypeScript",
-   1585808
+   1585816
   ],
   [
    "Kotlin",
@@ -216,7 +216,7 @@
    "url": "https://github.com/kmmiio99o/reseam-patches",
    "text": "My own reseam patches, suitable for Spotify lovers",
    "fork": true,
-   "stars": 4,
+   "stars": 5,
    "language": "Kotlin",
    "topics": []
   },
