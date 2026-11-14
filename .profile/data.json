@@ -1,29 +1,33 @@
 {
- "key": "748691bc",
+ "key": "1dfe5e42",
  "stars": 12,
- "contributions": 796,
+ "contributions": 808,
  "repos": 31,
  "followers": 34,
  "languages": [
   [
+   "JavaScript",
+   8190148
+  ],
+  [
    "TypeScript",
-   1585816
+   1628092
+  ],
+  [
+   "CSS",
+   152362
+  ],
+  [
+   "HTML",
+   152133
   ],
   [
    "Kotlin",
    134224
   ],
   [
-   "CSS",
-   94362
-  ],
-  [
-   "JavaScript",
-   26706
-  ],
-  [
-   "HTML",
-   23045
+   "Python",
+   116927
   ]
  ],
  "days": [
@@ -128,19 +132,19 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 13,
     "today": false
    },
    {
-    "c": 0,
+    "c": 11,
     "day": 14,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 2,
   "longest": 11
  },
  "pins": [
@@ -301,7 +305,7 @@
    "text": "My plugins for valenced and such",
    "fork": false,
    "stars": 0,
-   "language": "TypeScript",
+   "language": "JavaScript",
    "topics": []
   },
   {
