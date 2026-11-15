@@ -1,44 +1,40 @@
 {
- "key": "7e5d8c99",
+ "key": "f715bf95",
  "stars": 12,
- "contributions": 812,
+ "contributions": 849,
  "repos": 31,
  "followers": 34,
  "languages": [
   [
-   "JavaScript",
-   8190148
-  ],
-  [
    "TypeScript",
-   1628092
-  ],
-  [
-   "CSS",
-   152362
-  ],
-  [
-   "HTML",
-   152133
+   1616266
   ],
   [
    "Kotlin",
    134224
   ],
   [
-   "Python",
-   116927
+   "CSS",
+   94362
+  ],
+  [
+   "JavaScript",
+   26706
+  ],
+  [
+   "HTML",
+   23045
   ]
  ],
  "days": [
   [
    {
-    "c": 15,
+    "c": 27,
     "day": 1,
     "today": false
    },
    {
-    "c": 3,
+    "c": 6,
     "day": 2,
     "today": false
    },
@@ -58,19 +54,19 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 4,
     "day": 6,
     "today": false
    },
    {
-    "c": 20,
+    "c": 21,
     "day": 7,
     "today": false
    }
   ],
   [
    {
-    "c": 23,
+    "c": 24,
     "day": 8,
     "today": false
    },
@@ -95,19 +91,19 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 13,
     "today": false
    },
    {
-    "c": 11,
+    "c": 22,
     "day": 14,
     "today": false
    }
   ],
   [
    {
-    "c": 4,
+    "c": 10,
     "day": 15,
     "today": true
    },
@@ -281,7 +277,7 @@
    "text": "My plugins for valenced and such",
    "fork": false,
    "stars": 0,
-   "language": "JavaScript",
+   "language": "TypeScript",
    "topics": []
   },
   {
