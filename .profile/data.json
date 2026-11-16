@@ -1,7 +1,7 @@
 {
- "key": "e8b1fb1",
+ "key": "835b25b1",
  "stars": 12,
- "contributions": 856,
+ "contributions": 846,
  "repos": 31,
  "followers": 34,
  "languages": [
@@ -105,9 +105,13 @@
    {
     "c": 16,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
