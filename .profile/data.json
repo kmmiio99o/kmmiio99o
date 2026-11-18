@@ -1,5 +1,5 @@
 {
- "key": "1253214",
+ "key": "afa7638e",
  "stars": 12,
  "contributions": 848,
  "repos": 31,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "TypeScript",
-   1616266
+   1616254
   ],
   [
    "Kotlin",
@@ -23,7 +23,7 @@
   ],
   [
    "HTML",
-   23045
+   23018
   ]
  ],
  "days": [
@@ -115,9 +115,13 @@
    {
     "c": 2,
     "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
     "today": true
    },
-   null,
    null,
    null,
    null
