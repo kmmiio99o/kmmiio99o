@@ -1,5 +1,5 @@
 {
- "key": "a7f1e088",
+ "key": "4d334107",
  "stars": 12,
  "contributions": 850,
  "repos": 31,
@@ -7,11 +7,11 @@
  "languages": [
   [
    "TypeScript",
-   1616329
+   1623246
   ],
   [
    "Kotlin",
-   134224
+   131773
   ],
   [
    "CSS",
@@ -130,9 +130,13 @@
    {
     "c": 0,
     "day": 20,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 21,
+    "today": true
+   }
   ]
  ],
  "streak": {
